@@ -20,7 +20,7 @@ const AdminNavbar = ({handleOpenSideBar}) => {
 
 
   return (
-    <div className="lg:hidden px-5 z-50 py-[.8rem] bg-[#e91e63]  lg:px-20 flex justify-between">
+    <div className="lg:hidden px-5 z-50 py-[.8rem] bg-[#cc5200]  lg:px-20 flex justify-between">
       <div className="flex items-center space-x-4">
         <div
           className="lg:mr-10 cursor-pointer flex items-center space-x-4"
